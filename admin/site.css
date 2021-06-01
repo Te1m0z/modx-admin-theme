@@ -1,0 +1,67 @@
+#left {
+	font-family:verdana;
+	font-size:8pt;
+	color:white;
+}
+
+#right {
+	font-family:verdana;
+	font-size:8pt;
+	color:white;
+}
+
+#bottom {
+	font-family:verdana;
+	font-size:8pt;
+	color:white;
+}
+
+#main {
+	background-color:e0e0e0;
+	font-family:verdana;
+	font-size:10pt;
+	color:000000;
+}
+
+#head_link {
+	color:eeeeee;
+}
+
+#head_table {
+	background-color:808080;
+	font-family:verdana;
+	font-size:8pt;
+}
+#auth_line {
+	background-color:B0B0B0;
+	font-family:verdana;
+	font-size:8pt;
+}
+a {text-decoration:underline; color:202020;}
+form, td, #form {font-family:verdana;font-size:10pt;}
+#small {font-family:verdana;font-size:8pt;}
+#smallest {font-family:verdana;font-size:7pt;}
+
+#nnform {font-family:verdana,arial;font-size:10pt;background-color:white;color:202020; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; border-top: 1px solid;}
+#nsform {font-family:verdana,arial;font-size:8pt;background-color:white;color:202020; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; border-top: 1px solid;}
+
+#nform {font-family:verdana,arial;font-size:10pt;background-color:white;color:202020;}
+#sform {font-family:verdana,arial;font-size:8pt;background-color:white;color:202020;}
+
+
+#forumact {font-family:verdana;font-size:8pt;color:orangered;}
+
+#ed {font-family:verdana;font-size:7pt;background-color:white;color:409600;text-decoration:none;width:50px;text-align:center;font-weight:bold; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; border-top: 1px solid;}
+#del {font-family:verdana;font-size:7pt;background-color:white;color:FF2A00;text-decoration:none;width:50px;text-align:center;font-weight:bold; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; border-top: 1px solid;}
+#add {font-family:verdana;font-size:7pt;background-color:white;color:000000;text-decoration:none;width:50px;text-align:center;font-weight:bold; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; border-top: 1px solid;}
+#del:a:hover, #add:a:hover, #ed:a:hover {border-bottom: 2px solid;border-right: 2px solid;}
+
+
+#bigul {color:808080; padding: 0 0 0 0; margin:0 10 0 30}
+#smallul {color:808080; padding: 0 0 0 0; margin:0 5 0 20}
+
+#ml:a:hover {background-color:ffffff; text-decoration:none; width:100%;border-right: 1px solid;}
+
+fieldset {
+	padding: 10 10 0 15;
+}

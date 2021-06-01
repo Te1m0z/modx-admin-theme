@@ -1,0 +1,8 @@
+<!-- frames -->
+<frameset  cols="15%,*">
+    <frame name="PersonList" src="left.php" marginwidth="10" marginheight="10" scrolling="auto" frameborder="1">
+    <frameset  rows="100%,*">
+        <frame name="TopTree" src="add.php" marginwidth="10" marginheight="10" scrolling="auto" frameborder="1">
+     
+    </frameset>
+</frameset>
