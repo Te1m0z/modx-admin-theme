@@ -2,6 +2,3 @@ php_flag display_errors on
 
 Order deny,allow
 deny from all
-#Allow from 212.193.32.0/20
-Allow from 212.193.33.92
-Allow from 212.193.33.87
