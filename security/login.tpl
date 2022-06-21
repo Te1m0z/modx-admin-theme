@@ -8,7 +8,7 @@
 
     <link rel="stylesheet" type="text/css" href="{$_config.manager_url}assets/ext3/resources/css/ext-all-notheme-min.css" />
 	<link rel="stylesheet" type="text/css" href="{$_config.manager_url}templates/default/css/index{if $_config.compress_css}-min{/if}.css" />
-    <link rel="stylesheet" type="text/css" href="{$_config.manager_url}templates/default/css/login{if $_config.compress_css}-min{/if}.css" />
+    <link rel="stylesheet" type="text/css" href="{$_config.manager_url}templates/evo/css/login{if $_config.compress_css}-min{/if}.css" />
 
 {if isset($_config.ext_debug) && $_config.ext_debug}
     <script src="{$_config.manager_url}assets/ext3/adapter/ext/ext-base-debug.js"></script>
@@ -34,7 +34,8 @@
 
 <div id="container">
     <div id="modx-login-logo">
-        <img alt="MODX CMS/CMF" src="{$_config.manager_url}templates/default/images/modx-logo-color.svg" />
+        <img alt="MODX CMS/CMF" src="{$_config.manager_url}templates/evo/images/siteLogo.webp" />
+        <h2><a href="https://site-creative.ru/" target="_blank">Site-Creative</a></h2>
     </div>
 
     <div id="modx-panel-login-div" class="x-panel modx-form x-form-label-right">
